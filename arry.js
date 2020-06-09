@@ -1,1 +1,1 @@
-document.getElementById(nsm).innerHTML="Hello World"
+document.getElementById("nsm").innerHTML="Hello World"
