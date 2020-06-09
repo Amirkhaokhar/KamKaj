@@ -1,1 +1,1 @@
-console.log("jeldpkc")
+document.getElementById(nsm).innerHTML="Hello World"
